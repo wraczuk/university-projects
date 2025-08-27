@@ -1,0 +1,3 @@
+[submodule "application_development"]
+	path = application_development
+	url = git@github.com:wraczuk/oioioi.git
